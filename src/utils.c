@@ -262,7 +262,7 @@ usage()
         "  maintained by Max Lv <max.c.lv@gmail.com> and Linus Yang <laokongzi@gmail.com>\n\n");
     printf("  usage:\n\n");
 #ifdef MODULE_LOCAL
-    printf("    ss-local\n");
+    printf("    ssr-local\n");
 #elif MODULE_REMOTE
     printf("    ss-server\n");
 #elif MODULE_TUNNEL

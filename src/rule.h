@@ -32,6 +32,7 @@
 #endif
 
 #include <libcork/ds.h>
+#include <pcre/pcre.h>
 
 #ifdef HAVE_PCRE_H
 #include <pcre.h>
